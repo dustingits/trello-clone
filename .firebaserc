@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "dustin-portfolio-ba66b": {
+      "hosting": {
+        "trello-clone": [
+          "dustin-portfolio-ba66b"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "dustin-portfolio-ba66b"
+  }
+}
